@@ -1,15 +1,30 @@
+![Nexus terminal identity. Original pixel astronaut with orbital rings.](nexus-terminal.svg)
 
-# Interfaces. State. APIs.
+<h1 align="center">Nexus here. Said Ahmed behind the code.</h1>
+<p align="center"><strong>Frontend Developer · Angular / React / TypeScript</strong></p>
 
-I'm **Said Ahmed**, a frontend developer working with **Angular, React and TypeScript**. I build e-commerce interfaces and dashboards, with backend work in **Python and FastAPI**.
+## Behind the handle
 
-## My stack, connected
+I turn designs into web interfaces. My work includes e-commerce screens, dashboards, state management and API integration.
 
+My development loop: build it, try different user paths, find what breaks, and test the fix.
 
-**UI tools:** Tailwind CSS · Material UI  
-**Backend:** REST APIs · PostgreSQL
+Frontend is my focus. Python and FastAPI let me work on the API side too.
 
-## Selected builds
+## Tools on board
+
+<p align="center">
+<img src="angular.svg" alt="Angular" width="88" height="78">
+<img src="react.svg" alt="React" width="88" height="78">
+<img src="typescript.svg" alt="TypeScript" width="88" height="78">
+<img src="javascript.svg" alt="JavaScript" width="88" height="78">
+<img src="python.svg" alt="Python" width="88" height="78">
+<img src="fastapi.svg" alt="FastAPI" width="88" height="78">
+<img src="postgresql.svg" alt="PostgreSQL" width="88" height="78">
+<img src="tailwind.svg" alt="Tailwind CSS" width="88" height="78">
+</p>
+
+## Project log
 
 ### 01 / [Nexus Store · Frontend](https://github.com/SaidNexus/Nexus-Store-Frontend)
 `React` `JavaScript` `Tailwind CSS` `Material UI`
@@ -33,4 +48,5 @@ API code with routes for authentication, products, categories, cart, orders and 
 
 ---
 
-Interested in frontend and software development opportunities.
+<p align="center"><strong>From the first screen to the API.</strong></p>
+<p align="center">Interested in frontend and software development opportunities.</p>
