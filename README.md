@@ -1,4 +1,3 @@
-![Said Ahmed. Frontend Developer. Angular, React and TypeScript. Python and FastAPI. Animated decorative node network.](assets/hero.gif)
 
 # Interfaces. State. APIs.
 
@@ -6,7 +5,6 @@ I'm **Said Ahmed**, a frontend developer working with **Angular, React and TypeS
 
 ## My stack, connected
 
-![Illustrative stack map: interface with Angular and React, state with TypeScript and JavaScript, and APIs with Python and FastAPI.](assets/stack-map.png)
 
 **UI tools:** Tailwind CSS · Material UI  
 **Backend:** REST APIs · PostgreSQL
